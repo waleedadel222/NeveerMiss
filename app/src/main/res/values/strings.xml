@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">NeverMiss</string>
+
+    <!-- Strings related to sign -->
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_user_name">Use Name</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_re_password">Renter Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="forgot_password">Forgot Your Password ?</string>
+    <string name="send_email">Send Email</string>
+    <string name="send_vaild_email">Write a valid Email to send you a new password</string>
+    <string name="signin">Sign In</string>
+    <string name="change_password">Change Password  </string>
+    <string name="enter_password">Enter your new password</string>
+
+    <string name="register_txt">Don\'t have account ? ,Register</string>
+    <string name="login_txt">Already have account?,Login</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_send_message">SendMessageActivity</string>
+    <string name="title_activity_contact">Add Contacts</string>
+    <string name="title_activity_add_group">AddGroupActivity</string>
+    <string name="hint_group_name">Name</string>
+    <string name="people">People</string>
+    <string name="msg_sent">Message sent</string>
+    <string name="status_sent">Completed</string>
+    <string name="type_sms">Sent</string>
+    <string name="msg_generic_failure">GENERIC FAILURE</string>
+    <string name="msg_no_service">NO SERVICE</string>
+    <string name="msg_null_pdu">NULL PDU</string>
+
+
+</resources>
